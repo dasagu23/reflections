@@ -21,3 +21,8 @@ git log shows you all the commits created and git diff lets you differentiate be
 How might using version control make you more confident to make changes that could break something?
 
 It gives you the opportunity of pinpoint any bugs or errors that might have been introduced into the code and this makes it easier to solve them.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I would like to start creating commits and comparing them
+
