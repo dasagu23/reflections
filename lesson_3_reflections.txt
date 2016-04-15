@@ -11,7 +11,7 @@ It's always better to pull changes at a specific point in time where you think i
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+Forks are copies made of repositories from one github profile to another. Clones are copies of repositories from the remoto to the local. Branches are made inside the local repository or inside github, then you can pull or push them.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
